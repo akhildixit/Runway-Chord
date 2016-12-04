@@ -1,0 +1,17 @@
+{
+  "name": "runway-model-chord",
+  "version": "0.1.0",
+  "description": "Chord protocol model for use in Runway",
+  "keywords": [
+    "runway"
+  ],
+  "author": "Akhil Dixit <akadixit@ucsc.edu>",
+  "license": "Apache 2.0",
+  "models": {
+    "main": {
+      "name": "Chord",
+      "spec": "chord.model",
+      "view": "chord.js"
+    }
+  }
+}

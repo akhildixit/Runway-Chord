@@ -6,7 +6,8 @@ This repository contains a system model (written in Runway Specification Languag
 It can be run in <a href="https://github.com/salesforce/runway-browser">Runway browser</a>.
 
 To run this model, follow instructions given to set up Runway web interface on your local machine. <a href="https://github.com/salesforce/runway-browser">Read here</a>.
-Copy files from this repository to a directory named <code>Chord</code>. Move Chord directory inside <code>runway-browser/dist/models/</code>.
+
+Copy chord.model, chord.js and package.json files from this repository to a directory named <code>Chord</code>. Move Chord directory inside <code>runway-browser/dist/models/</code>.
 Set up web server as given in the runway-browser's instructions.
 Access <a href="http://localhost:3030/?model=Chord">http://localhost:3030/?model=Chord<a> to see Chord running live.
 

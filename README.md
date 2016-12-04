@@ -9,3 +9,6 @@ To run this model, follow instructions given to set up Runway web interface on y
 Copy files from this repository to a directory named <code>Chord</code>. Move Chord directory inside <code>runway-browser/dist/models/</code>.
 Set up web server as given in the runway-browser's instructions.
 Access <a href="http://localhost:3030/?model=Chord">http://localhost:3030/?model=Chord<a> to see Chord running live.
+
+Note:
+This is an academic project for the <a href="https://github.com/palvaro/CMPS232-Fall16">CMPS232 course</a> and still under development. The system model may contain bugs.
